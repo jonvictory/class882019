@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.h1wrap {
+    height: 4em;
+    background-color: black
+}
+
+.bodywrap{
+    padding-top: 1em;
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+}
+
+.imgcontainer{
+    margin-left: 2em;
+    display: block;
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: lightgray;
+}
+
+.pcontainer{
+    display: block;
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: lightgray;
+}
+
+.contactcontainer{
+    display: block;
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: lightgray;
+}
